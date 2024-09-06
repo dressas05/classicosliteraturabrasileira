@@ -2,7 +2,7 @@
 
 **O que é isso?**
 
-É uma pequena aplicação web que te ajuda a encontrar seus livros clássicos brasileiros favoritos de forma rápida e fácil. 
+É uma pequena aplicação web que te ajuda a encontrar seus livros clássicos brasileiros favoritos de forma rápida e fácil. Projeto criado na Imersão Dev com Google Gemini.
 
 **Como funciona?**
 
